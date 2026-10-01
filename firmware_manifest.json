@@ -1,8 +1,8 @@
 {
   "manifest_version": "1.0",
   "global_default": {
-    "version": "1.2.7",
+    "version": "2.2.8",
     "url": "https://github.com/usAtJD/robodog-firmware/raw/refs/heads/main/xiaozhi.bin",
-    "sha256": "DB4576CDAE40FDCB3E0C5243697B34DFFE351C249A3A2EBB791138359FDE401D"
+    "sha256": "04360F8C675414D02912F26788CBB73C0A914DB2D1E9FBF640869CD9E4C82FA9"
   }
 }
